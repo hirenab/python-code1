@@ -18,5 +18,5 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Run hello.py script
-        run: python hello.py
+      - name: Run sum.py script
+        run: sum.py
